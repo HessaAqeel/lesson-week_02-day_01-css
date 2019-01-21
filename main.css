@@ -1,0 +1,56 @@
+/*h1 {
+text-align: center;
+
+
+}
+
+p {
+    font-size: 32px;
+    color: #ff0000;
+
+}
+
+#nd-par {
+
+    color:#0000ff; 
+}
+
+nav a {
+    color: #ff0000;
+}
+
+body {
+    background-color: #eeeeee;
+    
+}
+
+.submit {
+background-color: #00ff00;
+color: #ffffff;
+
+}
+.cancel {
+
+background-color: #00f0f0;
+}
+
+img {
+    border: 1px solid #0f0fff
+    
+}
+
+* {
+
+    background: orange;
+    font-size: 10px;
+}*/
+
+
+button{
+
+    font-size: 10px;
+    margin: 10px;
+    padding: 12px;
+    background-color: orange;
+    border: 12px dotted red ;
+}
